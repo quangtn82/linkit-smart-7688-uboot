@@ -1,6 +1,7 @@
 # linkit-smart-uboot
 ============================
-[![Build Status](https://travis-ci.org/shenfahsu/linkit-smart-7688-uboot.svg?branch=master)](https://travis-ci.org/shenfahsu/linkit-smart-7688-uboot/branches)
+[![Build Status](https://travis-ci.org/AcSiP/linkit-smart-7688-uboot.svg?branch=master)](https://travis-ci.org/AcSiP/linkit-smart-7688-uboot/branches)
+
 
 <BR>
 The UBoot bootloader source code for the AcSiP AI7688H
