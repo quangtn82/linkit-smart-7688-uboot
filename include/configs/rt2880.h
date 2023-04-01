@@ -97,7 +97,7 @@ extern unsigned int  CFG_BLOCKSIZE;
 
 #define CONFIG_BOOTDELAY	3	/* autoboot after 5 seconds	*/
 
-#define CONFIG_BAUDRATE		57600
+#define CONFIG_BAUDRATE		115200
 
 #define CONFIG_SERVERIP 10.10.10.3
 #define CONFIG_IPADDR 10.10.10.123
